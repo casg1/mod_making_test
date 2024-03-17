@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 0.1,
+  "group": "hellfire",
+  "ingredient": {
+    "item": "minecraft:blaze_rod"
+  },
+  "result": "cursed_tech_cas:hellfire"
+}
