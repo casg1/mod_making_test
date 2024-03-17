@@ -1,4 +1,6 @@
 {
-  "item.cursed_tech_cas.dismantle": "dismantle",
-  "item.cursed_tech_cas.hellfire": "hellfire"
+  "item.cursed_tech_cas.dismantle": "Dismantle",
+  "item.cursed_tech_cas.hellfire": "Hellfire",
+  "block.cursed_tech_cas.hellfire_block":"Block of Hellfire",
+  "item.cursed_tech_cas.dismantle_blade": "Dismantling Blade"
 }
