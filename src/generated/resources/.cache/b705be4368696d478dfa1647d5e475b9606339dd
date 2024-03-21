@@ -1,0 +1,3 @@
+// 1.20.1	2024-03-21T04:52:28.2602677	Tags for minecraft:block mod id cursed_tech_cas
+f4d5d7af16944250ea1cb892ae2405b85b4dbbee data/cursed_tech_cas/tags/blocks/hellish_tag.json
+af6522e197c39b34de8ea138db9596b73d27b96b data/minecraft/tags/blocks/needs_iron_tool.json

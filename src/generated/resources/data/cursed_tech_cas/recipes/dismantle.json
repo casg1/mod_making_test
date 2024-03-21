@@ -1,20 +1,21 @@
 {
   "type": "minecraft:crafting_shaped",
-  "category": "misc",
+  "category": "equipment",
+  "key": {
+    "!": {
+      "item": "minecraft:netherite_sword"
+    },
+    "#": {
+      "item": "cursed_tech_cas:hellfire"
+    }
+  },
   "pattern": [
     " # ",
     "#!#",
     " # "
   ],
-  "key": {
-    "#": {
-      "item": "cursed_tech_cas:hellfire"
-    },
-    "!": {
-      "item": "minecraft:netherite_sword"
-    }
-  },
   "result": {
     "item": "cursed_tech_cas:dismantle"
-  }
+  },
+  "show_notification": true
 }
