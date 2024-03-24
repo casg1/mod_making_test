@@ -62,6 +62,7 @@ public class TutorialMod
         if (event.getTabKey() == CreativeModeTabs.COMBAT)
             event.accept(ModItems.dismantle);
             event.accept(ModItems.HELLFIRE);
+            event.accept(ModItems.dismantle_blade);
 
     }
 
